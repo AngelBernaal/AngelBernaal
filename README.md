@@ -1,4 +1,4 @@
-<h1 style="font-weght:bolder">Hola, me llamo Angel Bernal...👋🏻</h1>
+<h1>Hola, me llamo Angel Bernal...👋🏻</h1>
 <p>Me gusta la tecnología, especialmente porque se aprenden cosas nuevas día con día.</p>
 <h2>Algunas tecnologías que me gustaría dominar son:</h2>
   <li>HTML</li>
