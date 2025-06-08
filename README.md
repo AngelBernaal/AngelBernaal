@@ -1,4 +1,4 @@
-# ¡Hola! Soy Angel Bernal 👋🏻 | Ingeniero en Sistemas Computacionales 
+# ¡Hola! Soy Angel Bernal 👋🏻 | Ingeniero en Sistemas Computacionales
 
 Me entusiasma la tecnología y su capacidad de evolución constante. Con una sólida base en Ingeniería en Sistemas y experiencia en soporte técnico, mi verdadera pasión se centra en **transformar datos en insights accionables y estrategias de valor.** Busco activamente oportunidades donde pueda aplicar mi curiosidad analítica y mis habilidades de programación para impulsar decisiones informadas.
 
