@@ -31,7 +31,7 @@ Mi objetivo es unirme a un equipo donde pueda:
 Estoy buscando un rol como **Analista de Datos Jr./Trainee** o posiciones similares donde mi capacidad analítica y proactividad puedan generar un impacto tangible.
 
 
-## 🤝 Conectemos
+## 🤛🏻 Conectemos
 
 Siempre abierto a nuevas ideas y colaboraciones. ¡No dudes en contactarme!
 
