@@ -23,7 +23,7 @@ Aquí te presento las tecnologías con las que trabajo, siempre en constante apr
 
 Mi objetivo es unirme a un equipo donde pueda:
 
-* **Aplicar mi experiencia en SQL y Python (Pandas)** para la **extracción, limpieza, transformación y análisis** de datos que soporten la toma de decisiones estratégicas.
+* **Aplicar mi experiencia en SQL y Python (Pandas, NumPy, Matplotlib, Ploty)** para la **extracción, limpieza, transformación y análisis** de datos que soporten la toma de decisiones estratégicas.
 * Desarrollar y mantener **modelos de datos robustos y escalables**.
 * Colaborar activamente en la construcción de **dashboards y reportes significativos** que traduzcan la complejidad de los datos en información clara y accionable.
 * Crecer en un entorno que promueva el aprendizaje continuo en áreas como **visualización de datos (Tableau)**, estadística avanzada o Machine Learning inicial.
