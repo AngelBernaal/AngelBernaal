@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Angel Bernal | Ingeniero en Sistemas Computacionales.
+# 🚀 Angel Bernal | Ingeniero en Sistemas Computacionales
 </div>
 
 <div align="center">
@@ -11,21 +11,21 @@
 
 ---
 
-## 💻 Perfil Profesional.
+## 💻 Perfil Profesional
 
 Soy **Ingeniero en Sistemas Computacionales** con una **fuerte motivación** para aplicar mi base técnica en la **transformación de datos complejos en información estratégica**.
 
-Mi experiencia en Soporte TI me ha dotado de una habilidad única para la **atención a usuarios**, **capacidad de resolución de problemas** y **encontrar patrones en soluciones de software**, competencias fundamentales para un análisis de datos efectivo.
+Mi experiencia en Soporte TI me ha dotado de una habilidad única para la **atención a usuarios**, **capacidad de resolución de problemas** y **encontrar patrones en soluciones de software**, competencias fundamentales para un análisis de datos **sólido**.
 
 Busco activamente roles **Junior** en el campo de los datos (Business Intelligence, Data Analyst) donde mis habilidades en programación y mi mentalidad analítica puedan impulsar la eficiencia operativa y la toma de decisiones estratégicas.
 
 ---
 
-## ⚙️ Stack de Tecnologías Analíticas.
+## ⚙️ Stack de Tecnologías Analíticas
 
 <div align="center">
 
-### **Programación**.
+### **Programación**
 <p>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Pandas-1565C0?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
@@ -33,14 +33,14 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
   <img src="https://img.shields.io/badge/Scikit--learn-2196F3?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
 </p>
 
-### **Bases de Datos y Modelado**.
+### **Bases de Datos y Modelado**
 <p>
   <img src="https://img.shields.io/badge/SQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
   <img src="https://img.shields.io/badge/BigQuery-42A5F5?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery Badge">
   <img src="https://img.shields.io/badge/Modelado-3C93FF?style=for-the-badge" alt="Modelado de Datos Badge">
 </p>
 
-### **Visualización y Reporting**.
+### **Visualización y Reporting**
 <p>
   <img src="https://img.shields.io/badge/Tableau-0D47A1?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
   <img src="https://img.shields.io/badge/Matplotlib-1E88E5?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
@@ -48,7 +48,7 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
   <img src="https://img.shields.io/badge/Excel-0066CC?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge">
 </p>
 
-### **Entorno de Ingeniería y Desarrollo**.
+### **Entorno de Ingeniería y Desarrollo**
 <p>
   <img src="https://img.shields.io/badge/Jupyter-1976D2?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge">
   <img src="https://img.shields.io/badge/Anaconda-0D47A1?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge">
@@ -60,15 +60,15 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
 
 ---
 
-## 🔎 Metodología y Valor Añadido.
+## 🔎 Metodología y Valor Añadido
 
 ### **1. Extracción y Limpieza (Python)**
-* Dominio de **Python** y librerías clave (**Pandas** para DataFrames, **NumPy** para cálculos) en nivel básico e intermedio para recolección, limpieza y preprocesamiento de datos.
-* Experiencia en **Web Scraping** usando librerías especializadas para la obtención de datos de fuentes en línea.
+* **Conocimiento práctico** de **Python** y librerías clave (**Pandas** para DataFrames, **NumPy** para cálculos) en nivel básico e intermedio para recolección, limpieza y preprocesamiento de datos.
+* Experiencia con librerías de **Web Scraping** para la obtención de datos de fuentes en línea.
 * Conocimientos básicos de **Scikit-learn** para la aplicación de modelos predictivos iniciales.
 
 ### **2. Almacenamiento y Consulta (SQL / BigQuery)**
-* Habilidad en **SQL** para la gestión eficiente de datos, incluyendo el uso de **JOINs, Subqueries**.
+* Habilidad en **SQL** para la gestión **adecuada** de datos, incluyendo el uso de **JOINs, Subqueries**.
 * Familiaridad con entornos de Big Data como **BigQuery** para el manejo de grandes volúmenes de datos en la nube.
 * Diseño y optimización de esquemas relacionales para consultas de alto rendimiento.
 
@@ -82,13 +82,12 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
 <div align="center">
    
   
-## 🤛🏻 Conectemos.
+## 🤛🏻 Conectemos
 
-**Te invito a revisar mis repositorios anclados para ver mi trabajo en acción.** Estoy abierto a nuevas ideas y oportunidades de colaboración.
+**¡Te invito a revisar mis repositorios anclados para ver mi trabajo en acción!** Estoy abierto a nuevas ideas y oportunidades de colaboración.
 
-| | |
-| :--- | :--- |
-| **Buscando un rol:** | **Analista de Datos Jr, Científico de Datos Jr, Business Analyst Jr.** |
-| **Portafolio:** | [angelbernal.netlify.app/](https://angelbernal.netlify.app/) |
-| **Contacto:** | angangbp284@gmail.com |
+* **Buscando Roles:** **Analista de Datos Jr, Científico de Datos Jr, Business Analyst Jr.**
+* **Portafolio Web:** [angelbernal.netlify.app/](https://angelbernal.netlify.app/)
+* **Contacto Directo:** angangbp284@gmail.com
+
 </div>
