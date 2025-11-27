@@ -23,7 +23,7 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
 
 ## ⚙️ Stack de Tecnologías Analíticas
 
-<div align="center">
+
 
 ### **Programación**
 <p>
@@ -56,7 +56,7 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
   <img src="https://img.shields.io/badge/JavaScript-1976D2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge">
 </p>
 
-</div>
+
 
 ---
 
@@ -79,9 +79,6 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
 
 ---
 
-<div align="center">
-   
-  
 ## 🤛🏻 Conectemos
 
 **¡Te invito a revisar mis repositorios anclados para ver mi trabajo en acción!** Estoy abierto a nuevas ideas y oportunidades de colaboración.
@@ -90,4 +87,3 @@ Busco activamente roles **Junior** en el campo de los datos (Business Intelligen
 * **Portafolio Web:** [angelbernal.netlify.app/](https://angelbernal.netlify.app/)
 * **Contacto Directo:** angangbp284@gmail.com
 
-</div>
